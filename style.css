@@ -42,7 +42,7 @@ body {
 #poster {
   height: 180px; 
   width: 100px;
-  float: right;}
+  }
   
   
 #H1{
@@ -70,3 +70,16 @@ body {
   height:125px;
   width:180px;
 }
+#Gwen{
+  float:right;
+  
+  height:100px;
+  width:200px;
+  }
+#Spider2099{
+  
+  float:right;
+  
+  height:100px;
+  width:200px;
+  }
