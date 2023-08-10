@@ -1,93 +1,118 @@
 body {
-  background-color: Azure;
+  background-color: rgb(255, 250, 205);
   font-family: 'Josefin Sans', sans-serif;
- 
+
 }
 
-#Table
-  
-.tg {
-        border-collapse: collapse;
-        border-spacing: 0;
+#Table .tg {
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 .tg td {
-        border-color: black;
-        border-style: double;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        overflow: hidden;
-        padding: 10px 5px;
-        word-break: normal;
+  border-color: black;
+  border-style: double;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
 }
 
 .tg th {
-        border-color: black;
-        border-style: double;
-        border-width: 1px;
-        font-family: Arial, sans-serif;
-        font-size: 14px;
-        font-weight: normal;
-        overflow: hidden;
-        padding: 10px 5px;
-        word-break: normal;
-      }
+  border-color: black;
+  border-style: double;
+  border-width: 1px;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+  overflow: hidden;
+  padding: 10px 5px;
+  word-break: normal;
+}
 
-      .tg .tg-0lax {
-        text-align: left;
-        vertical-align: top
-      }
+.tg .tg-0lax {
+  text-align: left;
+  vertical-align: top;
+}
 
 #poster {
-  height: 180px; 
+  height: 180px;
   width: 100px;
-  }
-  
-  
-#H1{
-  font-size:30px;
+}
+
+
+#H1 {
+  font-size: 30px;
   color: red;
- }
-
-
-
-#H2{
-  font-size:30px
+  text-align:center;
 }
 
-#H3{
-  font-size:24px;
-}  
-  
-#H4{
-  font-size:24px;
-  }
 
-#School1, #School2, #School3{
+
+#H2 {
+  font-size: 30px;
+}
+
+#H3,
+#H4,
+#H5 {
+  font-size: 24px;
+}
+
+
+
+#School1,
+#School2,
+#School3 {
   display: inline;
-  
-  height:125px;
-  width:180px;
-}
-#Gwen{
-  float:right;
-  
-  height:100px;
-  width:200px;
-  }
-#Spider2099{
-  
-  float:right;
-  
-  height:100px;
-  width:200px;
-  }
-  
- #Prowler{
-   float:right;
 
-  
-  height:150px;
+  height: 125px;
+  width: 180px;
+}
+
+#Gwen {
+  float: right;
+
+  height: 100px;
+  width: 200px;
+}
+
+#Spider2099 {
+
+  float: right;
+
+  height: 100px;
+  width: 200px;
+}
+
+
+
+#goodstuff{
+  font-size:16px;
+}
+
+
+#Picture1{
+  height: 100px;
+  width: 200px;
+}
+
+
+
+
+#Prowler {
+  width: 100px;
+  height: 150px;
+}
+
+#Important{
+  font-size:34px;
+}
+
+#Spider-Point{
   width:100px;
-  }
+  height:100px;
+}
+  
